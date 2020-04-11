@@ -1,0 +1,2 @@
+# apiRestFull_admtask
+RESTFUL API ORIENTED TO TASK MANAGEMENT
